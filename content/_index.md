@@ -52,27 +52,44 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: The University of Chicago
       company_logo: org-gc
       company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+      date_end: "2023-06-30"
+      date_start: "2020-06-30"
       description: |2-
           Responsibilities include:
 
           * Analysing
           * Modelling
           * Deploying
-      location: California
-      title: CEO
-    - company: University X
+      location: Chicago - United States
+      title: Postdoctoral researcher
+    - company: University of California Santa Cruz
       company_logo: org-x
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2020-06-20"
+      date_start: "2014-09-01"
+      description: Taught Bioinstrumentation and DNA sequencing technologies.
+      location: California - United States
+      title: Ph. D. Candidate
+    - company: Universidade de São Paulo
+      company_logo: org-x
+      company_url: ""
+      date_end: "2014-08-14"
+      date_start: "2012-08-01"
+      description: Performed molecular biology experiments.
+      location: São Paulo - Brazil
+      title: MS Student
+      
+    - company: Universidade Federal de Viçosa
+      company_logo: org-x
+      company_url: ""
+      date_end: "2012-02-01"
+      date_start: "2007-03-31"
+      description: Worked with undergraduate research.
+      location: Minas Gerais - Brazil
+      title: BS Biochemistry Student
     title: Experience
   design:
     columns: "2"
