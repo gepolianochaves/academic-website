@@ -89,5 +89,5 @@ superuser: true
 # title: 吳健雄
 ---
 
-Gepoliano Chaves holds a Ph.D. in Biomolecular Engineering and Bioinformatics from Universiy of California Santa Cruz, a MS in Parasitology from Universidade de São Paulo, Brazil and a BS in Biochemistry from Universidade Federal de Viçosa, Brazil. He is interested in understanding mechanisms in biology and the applications of Machine Learning for prognosis and progression of cancers.
+Gepoliano Chaves holds a Ph.D. in Biomolecular Engineering and Bioinformatics from Universiy of California Santa Cruz, a MS in Parasitology from Universidade de São Paulo, Brazil, and a BS in Biochemistry from Universidade Federal de Viçosa, Brazil. He is interested in understanding mechanisms in biology and the use of Machine Learning and Artificial Inteligence to undestand and predict prognosis and progression in the life sciences.
 {style="text-align: justify;"}
