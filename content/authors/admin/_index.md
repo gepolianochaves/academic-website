@@ -1,5 +1,5 @@
 ---
-bio: My research interests include biochemistry and molecular biology, computational programming, bioinformatics and machine learning.
+bio: My research interests include biochemistry and molecular biology, computational programming (programming languages), bioinformatics and machine learning.
 education:
   courses:
   - course: PhD in Biomolecular Engineering and Bioinformatics
@@ -25,39 +25,61 @@ organizations:
 role: Researcher
 skills:
 - items:
-  - description: ""
-    icon: python
-    icon_pack: fab
-    name: Python
+
+  - description: "DNA Sequencing Technologies"
+    icon: dna
+    icon_pack: fas
+    name: DNA
     percent: 80
-  - description: ""
+
+  - description: "Bioinformatics and Genetics"
+    icon: sitemap
+    icon_pack: fas
+    name: Genomics
+    percent: 80
+    
+  - description: "Data Science Skills"
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
-  - description: ""
-    icon: database
+    percent: 90
+    
+  - description: "R Programming Skills"
+    icon: R
     icon_pack: fas
-    name: SQL
+    name: R
+    percent: 85
+    
+  - description: "Terminal Fluency"
+    icon: terminal
+    icon_pack: fas
+    name: Bash
+    percent: 80
+    
+  - description: "Python Programming"
+    icon: python
+    icon_pack: fab
+    name: Python
     percent: 40
+    
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: ""
-    icon: person-hiking
+  - description: "Exercising"
+    icon: dumbbell
     icon_pack: fas
-    name: Hiking
+    name: Exercising
     percent: 60
-  - description: ""
-    icon: cat
+  - description: "Music Practice"
+    icon: music
     icon_pack: fas
-    name: Cats
-    percent: 100
-  - description: ""
-    icon: camera-retro
+    name: Music
+    percent: 65
+  - description: "Writing"
+    icon: book-open
     icon_pack: fas
-    name: Photography
+    name: Reading and Writing
     percent: 80
   name: Hobbies
 social:
@@ -88,5 +110,5 @@ superuser: true
 # title: 吳健雄
 ---
 
-Gepoliano Chaves holds a Ph.D. in Biomolecular Engineering and Bioinformatics from Universiy of California Santa Cruz, a MS in Parasitology from Universidade de São Paulo, Brazil, and a BS in Biochemistry from Universidade Federal de Viçosa, Brazil. He is interested in understanding mechanisms in biology and the use of Machine Learning and Artificial Inteligence to undestand and predict prognosis and progression in the life sciences.
+Gepoliano Chaves holds a Ph.D. in Biomolecular Engineering and Bioinformatics from Universiy of California Santa Cruz, a MS in Parasitology from Universidade de São Paulo, Brazil, and a BS in Biochemistry from Universidade Federal de Viçosa, Brazil. He is interested in biological mechanisms and the use of Machine Learning and Artificial Inteligence to understand, quantify and predict prognosis and progression in the life sciences.
 {style="text-align: justify;"}

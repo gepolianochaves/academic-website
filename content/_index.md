@@ -155,8 +155,10 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: Bioinformatics
+      tag: Bioinformatics
     - name: Other
       tag: Demo
     default_button_index: 0
