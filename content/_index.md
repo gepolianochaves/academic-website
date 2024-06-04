@@ -219,12 +219,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
+      city: Chicago
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      postcode: "60637"
+      region: IL
+      street: 5801 S Ellis Ave
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -244,7 +244,7 @@ sections:
       latitude: "37.4275"
       longitude: "-122.1697"
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    email: gchaves@ucsc.edu
     form:
       formspree:
         id: null
@@ -253,11 +253,10 @@ sections:
       provider: netlify
     office_hours:
     - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    # - Wednesday 09:00 to 10:00
+    # phone: 888 888 88 88
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: Send me an email message and I will reply as soon as possible. Email address can be found below.
     title: Contact
   design:
     columns: "2"

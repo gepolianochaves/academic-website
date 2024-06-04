@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include biochemistry and molecular biology, computational programming, bioinformatics and machine learning.
 education:
   courses:
   - course: PhD in Biomolecular Engineering and Bioinformatics
@@ -73,16 +72,16 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-In55jMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gepolianochaves
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://drive.google.com/file/d/1rNGBHwXfXruf2sfE_5VfBsDfCpojmcdf/view?usp=sharing
 status:
   icon: ☕️
 superuser: true
