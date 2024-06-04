@@ -1,5 +1,5 @@
 ---
-bio: My research interests include biochemistry and molecular biology, computational programming (programming languages), bioinformatics and machine learning.
+bio: My research interests include biochemistry and molecular biology, computational programming (programming languages), bioinformatics and machine learning applied to the life sciences.
 education:
   courses:
   - course: PhD in Biomolecular Engineering and Bioinformatics
