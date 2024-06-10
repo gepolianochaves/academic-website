@@ -20,7 +20,9 @@ To do this last step, I opened RStudio, clicked File > New Project.
 
 I noticed by practice that it is necessary to create the _site.yml and index.Rmd files to be able to activate the Build tab in RStudio. 
 
-Configuration of the _site.yml file can be found in the link (coming soon) ...
+Configuration of the _site.yml file can be found in the link :  [_site.yml file configuration](https://github.com/gepolianochaves/geraldo/blob/main/_site.yml). 
+
+
 
 So last thing I did to complete this part was to create the _site.yml and index.Rmd files that are stored with the geraldo.Rproj file in the geraldo repository I just created. 
 
